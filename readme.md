@@ -1,6 +1,6 @@
 ## Rails CRUD Lab
 
-For tonight's lab we would like you to build a Rails application that has full crud on one resource - puppies!! 
+For tonight's lab we would like you to build a Rails application that has full CRUD on one resource - puppies!! 
 
 ![Puppy](http://graphicsheat.com/wp-content/uploads/2013/07/tumblr_lo4dgsKxWu1qc7r8vo1_500.jpg)
 
