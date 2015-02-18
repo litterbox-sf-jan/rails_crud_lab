@@ -42,6 +42,6 @@ Your application should have 7 RESTful routes for puppies as well as a root rout
 
 ## Bonus
 
-Take a look at the notes for [tomorrow](https://github.com/wdi-sf-jan/notes/tree/master/rails_CRUD_refactor) and see if you can refactor some of your code using resources, the prefix 
+Take a look at the notes for [tomorrow](https://github.com/wdi-sf-jan/notes/tree/master/rails_CRUD_refactor) and see if you can refactor some of your code using resources, the prefix/path, flash messages and bootswatch! Don't worry, we will cover all of this tomorrow. 
 	
 ### Need some inspiration?? [Head over here](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1002&bih=739&q=puppy&oq=puppy&gs_l=img.3..0l10.914.1402.0.1526.5.5.0.0.0.0.73.307.5.5.0.msedr...0...1ac.1.62.img..0.5.306.r4EpNHzQFtY#tbm=isch&q=cute+puppy&imgdii=_)
